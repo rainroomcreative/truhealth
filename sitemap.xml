@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://reichmantruhealth.com/index.html</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://reichmantruhealth.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://reichmantruhealth.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-04%20at%20100038%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/final-reichman-logo-and-type.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-06%20at%20100006%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-06%20at%2095835%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-06%20at%2095906%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-04%20at%20112858%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-27%20at%20122521%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/reichman-logo-black-with-image.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/reichman-header-image-with-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-04%20at%20104750%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-28%20at%2054203%20pm.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-04-04%20at%20105431%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/red%20checkmark.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/images/screen%20shot%202022-05-14%20at%20103801%20am.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

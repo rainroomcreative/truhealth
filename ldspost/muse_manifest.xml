@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="reichmantruhealth.com" resolutions="1x,2x" timestamp="1654035743312">
+  <folder name="css">
+    <file name="site_global.css" crc="4254421243"/>
+    <file name="index.css" crc="4145129262" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2022-05-31 at 32134 pm.jpg" crc="304440609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 24649 pm-crop-u327.jpg" crc="84214422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 24649 pm-crop-u327_2x.jpg" crc="151913366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 30136 pm.jpg" crc="3869873539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 30136 pm_2x.jpg" crc="4031613974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 30603 pm.jpg" crc="73927051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 30603 pm_2x.jpg" crc="305760450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 31338 pm.jpg" crc="39451043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 31338 pm_2x.jpg" crc="116241166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 35416 pm.jpg" crc="4256075265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 33734 pm.jpg" crc="374488297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-05-31 at 33734 pm_2x.jpg" crc="62688113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="374803013" seo="true" mt="1654035674350" redirect="true"/>
+</manifest>

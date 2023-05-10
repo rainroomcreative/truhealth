@@ -1,0 +1,179 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="reichmantruhealth.COM" resolutions="1x" timestamp="1650651182507">
+  <folder name="css">
+    <file name="site_global.css" crc="427056350"/>
+    <file name="master_a-master.css" crc="4290526525" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="43748244" ref="index"/>
+    <file name="index.css" crc="337486879" ref="index"/>
+    <file name="nomq_index.css" crc="3803162820" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="oregonldolight.woff" crc="3761818303"/>
+    <file name="oregonldolight.eot" crc="3852913547"/>
+    <file name="oregonldolight.svg" crc="83867941"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="final-reichman-logo-and-type.png" crc="192339944" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u7127.png" crc="4247951056" ref="phone>index"/>
+    <file name="u7127-r.png" crc="4247951056" ref="phone>index"/>
+    <file name="illust__close.svg" crc="256928218" ref="phone>index"/>
+    <file name="illust__close_poster_u7051.png" crc="4268841150" ref="phone>index"/>
+    <file name="reichman-header-image-with-logo407x282.jpg" crc="3815261530" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 100038 am.jpg" crc="56566547" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6731-25.png" crc="4219832769" ref="phone>index"/>
+    <file name="screen shot 2022-04-04 at 104750 am200x137.jpg" crc="156456564" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 93323 am218x195.jpg" crc="4179175279" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 105431 am372x378.jpg" crc="298121844" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 100006 am.jpg" crc="147174172" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 95835 am.jpg" crc="4244479167" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 95906 am.jpg" crc="488512961" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reichman-header-image-with-logo623x430.jpg" crc="495254482" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 100038 am375x218.jpg" crc="4285229070" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 104750 am423x289.jpg" crc="487085434" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 93323 am380x340.jpg" crc="3917821554" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 105431 am392x398.jpg" crc="42023704" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 112858 am.jpg" crc="65285650" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="final-reichman-logo-and-type2.png" crc="456874751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reichman-header-image-with-logo.jpg" crc="467055013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 100038 am2.jpg" crc="246250594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 104750 am.jpg" crc="242382324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 93323 am.jpg" crc="3895209228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 105431 am.jpg" crc="3847776069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-06 at 93323 am419x374.jpg" crc="4140772867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2022-04-04 at 104750 am514x374.jpg" crc="52296490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reichman-header-image-with-logo320x214.jpg" crc="195581948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="491749801" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="396728143" seo="true" mt="1650565368047" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="534350201" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="261024452" seo="true" mt="1650588991916" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3851107832" seo="true" mt="1650565368046" redirect="true"/>
+</manifest>

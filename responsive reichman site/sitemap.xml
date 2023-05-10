@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://reichmantruhealth.com/test/index.html</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://reichmantruhealth.com/test/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://reichmantruhealth.com/test/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-06%20at%20100006%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-06%20at%2095835%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-06%20at%2095906%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-04%20at%20112858%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/final-reichman-logo-and-type2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/reichman-header-image-with-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-04%20at%20100038%20am2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-04%20at%20104750%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-06%20at%2093323%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-04%20at%20105431%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-06%20at%2093323%20am419x374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/screen%20shot%202022-04-04%20at%20104750%20am514x374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://reichmantruhealth.com/test/images/reichman-header-image-with-logo320x214.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
