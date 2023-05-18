@@ -446,6 +446,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 /* Header */
 .header {
     display: flex;
+    margin: 0 auto;
     max-width: 1450px;
     height: 100px;
     justify-content: space-between;
@@ -531,7 +532,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-image {
-    background-image: url('');
+    background-image: url('/images/new-hero.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -547,7 +548,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-image h1 {
-    color: #1B1464;
+    color: #ffffff;
     font-size: 72px;
     font-weight: 400;
     text-align: center;
@@ -817,4 +818,147 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 
 #directions .row-2-col {
     gap: 0;
+}
+
+#page {
+    overflow: hidden;
+}
+
+@media screen and (max-width: 920px) {
+
+    .header {
+        margin: 0px !important;
+    }
+
+    .hero-row-1 {
+        flex-direction: column;
+    }
+
+    .hero-sidebar {
+        width: inherit;
+        align-items: center;
+        min-height: auto;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+    .header {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .nav-wrapper {
+        height: auto;
+    }
+
+    .nav {
+        flex-flow: column;
+        text-align: left;
+        align-items: flex-start;
+        margin-top: 10px;
+    }
+
+    .hero-image {
+        min-height: auto;
+    }
+
+    .hero-image h1 {
+        font-size: 48px;
+    }
+
+    #reichman .row-2-col {
+        flex-direction: column;
+    }
+
+    #services .clearfix .row-2-col {
+        flex-direction: column;
+    }
+
+    #reichman .row-2-col--item {
+        width: inherit;
+    }
+
+
+    .blue-card {
+        position: relative !important;
+        left: 0px !important;
+        top: 0px !important;
+        margin-top: 30px;
+    }
+
+    #services .row-2-col--item {
+        width: 100%;
+    }
+
+    #u529 {
+        padding: 30px !important;
+    }
+
+    #faq .row-2-col {
+        flex-direction: column;
+    }
+
+    #faq .row-2-col--item {
+        width: inherit;
+    }
+
+    #u517 {
+        padding: 16px !important;
+    }
+
+    #blog .row-3-col {
+        flex-direction: column;
+    }
+
+    #review h2{
+        font-size: 32px;
+    }
+
+    #review .row-2-col {
+        flex-direction: column;
+    }
+
+    #review .row-2-col--item {
+        width: inherit;
+    }
+
+    #directions .row-2-col {
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+
+    #directions .row-2-col--item {
+        width: inherit;
+    }
+
+    #u552 {
+        width: inherit !important;
+    }
+
+    #u552 {
+        margin: 40px auto;
+    }
+
+    a, button {
+        font-size: 16px;
+    }
+
+    #u557 {
+        width: 100vw;
+        margin: 30px auto;
+    }
+
+    #u555-4 {
+        font-size: 16px !important;
+    }
+
+    #buttonu554 {
+        max-width: 275px;
+        margin: 0 auto;
+    }
+
+    .header .logo-wrapper {
+        width: auto;
+    }
 }

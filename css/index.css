@@ -1,6 +1,9 @@
 /*
 
 */
+
+
+
 .version.index {
     color: #000008;
     background-color: #09688D;
@@ -1924,7 +1927,8 @@ input:hover, input:active, input:focus, textarea:hover, textarea:active, textare
 
 body {
     position: relative;
-    min-width: 1300px;
+    width: 100%;
+    /* min-width: 1300px; */
     padding-bottom: 12px;
 }
 
