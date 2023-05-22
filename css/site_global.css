@@ -532,7 +532,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-image {
-    background-image: url('/images/new-hero.jpg');
+    background-image: url('../images/chiropractor-with-patient.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
