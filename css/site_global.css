@@ -455,9 +455,6 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    border-style: solid;
-    border-color: #7F7F7F;
-    border-width: 1px 0px 0px;
 }
 .header .logo-wrapper {
     width: 30%;
@@ -826,6 +823,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     overflow: hidden;
 }
 
+/* ANCHOR Tablet */
 @media screen and (max-width: 920px) {
 
     .header {
@@ -843,6 +841,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     }
 }
 
+/* ANCHOR Mobile */
 @media screen and (max-width: 780px) {
 
     .header {
