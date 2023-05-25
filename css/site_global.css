@@ -444,6 +444,9 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     }
 }
 /* Header */
+.header-wrap {
+    background: linear-gradient(to right, #FFFFFF 10%, rgba(41, 171, 226, 0.11));
+}
 .header {
     display: flex;
     margin: 0 auto;
@@ -452,7 +455,6 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background: linear-gradient(to right, #FFFFFF 10%, rgba(41, 171, 226, 0.11));
     border-style: solid;
     border-color: #7F7F7F;
     border-width: 1px 0px 0px;
@@ -477,7 +479,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     gap: 10px;
     background-color: transparent;
