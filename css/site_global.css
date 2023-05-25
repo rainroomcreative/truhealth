@@ -610,7 +610,10 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-inner-row .image-col {
-    background-image: url('../images/screen shot 2022-04-04 at 100038 am.jpg');
+    position: relative;
+    top:-20px;
+    left:20px;
+    background-image: url('/images/reichman-photos-2023/_MG_3936.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
