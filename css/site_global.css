@@ -450,7 +450,6 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 .header {
     display: flex;
     margin: 0 auto;
-    max-width: 1450px;
     height: 100px;
     justify-content: space-between;
     align-items: center;
@@ -478,7 +477,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     flex-wrap: wrap;
     justify-content: flex-end;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
     background-color: transparent;
     text-align: center;
     font-size: 18px;
@@ -505,7 +504,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-sidebar {
-    background-color: #1B1464;
+    background-color: #1a1a1a;
     width: 25%;
     display: flex;
     flex-direction: column;
@@ -531,11 +530,10 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .hero-image {
-    background-image: url('../images/chiropractor-with-patient.jpg');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1) ),url('../images/chiropractor-with-patient.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 75%;
     min-height: inherit;
     padding: 50px;
     display: flex;
@@ -556,20 +554,21 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .button {
+    margin-top: 25px;
     display: flex;
     flex-direction: column;
     gap: 5px;
     justify-content: center;
     align-items: center;
     width: max-content;
-    padding: 14px 50px;
-    background-color: #1B1464;
-    border-radius: 5px;
+    padding: 14px 80px;
+    background-color: #1a1a1a;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     color: #fff;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 300;
+    letter-spacing: 2px;
     text-align: center;
     text-decoration: none;
 }
@@ -577,7 +576,6 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 .button span {
     color: #fff;
     font-size: 18px;
-    font-weight: 600;
     text-align: center;
     text-decoration: none;
 }
@@ -613,12 +611,13 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     position: relative;
     top:-20px;
     left:20px;
-    background-image: url('/images/reichman-photos-2023/_MG_3936.jpg');
+    background-image: url('/images/reichman-photos-2023/_MG_4062.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: inherit;
     width: 50%;
+    max-width: 560px;
 }
 
 .hero-info {
@@ -662,7 +661,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     justify-content: center;
     align-items: center;
     min-height: 430px;
-    gap: 30px;
+    gap: 80px;
     position: relative;
 }
 
@@ -676,7 +675,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .blue-bg {
-    background-color: #1B1862;
+    background-color: #1a1a1a;
 }
 
 .services-info h2 {
@@ -733,7 +732,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .row-align-top {
-    align-items: flex-start;
+    align-items: stretch;
 }
 
 .row-col-align-top {
@@ -741,8 +740,9 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 .white-bg {
-    background-color: rgba(255,255,255,0.8);
-    padding: 20px;
+    background-color: rgba(255,255,255,0.9);
+    padding: 40px;
+    border-radius: 10px;
 }
 
 .review-wrapper {
@@ -814,7 +814,6 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
 }
 
 #directions {
-    background-color: #1B1464;
     padding: 0;
 }
 
