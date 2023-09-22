@@ -504,7 +504,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     min-height: 80vh;
 }
 
@@ -540,13 +540,13 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     background-size: cover;
     background-repeat: no-repeat;
     min-height: inherit;
-    padding: 50px;
+    padding: 50px 50px 20% 50px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     gap: 20px;
-    flex-shrink: 1;
+    flex-grow: 1;
 }
 
 .hero-image h1 {
@@ -966,6 +966,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     .hero-image {
         min-height: 60vh;
         order: -1;
+        width: 100%;
     }
 
     .hero-image h1 {
