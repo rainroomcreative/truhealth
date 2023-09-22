@@ -540,7 +540,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{
     background-size: cover;
     background-repeat: no-repeat;
     min-height: inherit;
-    padding: 50px 50px 20% 50px;
+    padding: 0 0 20% 0;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;

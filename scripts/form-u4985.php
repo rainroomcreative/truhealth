@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'james@reichmantruhealth.com',
-		'to' => 'james@reichmantruhealth.com'
+		'from' => 'info@truhealthutah.com',
+		'to' => 'info@truhealthutah.com'
 	),
 	'fields' => array(
 		'custom_U4997' => array(
